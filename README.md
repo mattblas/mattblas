@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mattblas
-- 🌱 I’m currently learning Python, django
+When the seagulls follow the trawler, it’s because they think sardines will be thrown into the sea.
 
 <!---
 mattblas/mattblas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
